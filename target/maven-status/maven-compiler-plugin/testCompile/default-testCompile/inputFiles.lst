@@ -1,0 +1,9 @@
+D:\workshop27102020\src\test\java\restfullbooker\runner\TestRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\deletebooking\DeleteBookingRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\getbooking\GetBookingRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\getbookingids\GetBookingIdsRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\updatebooking\UpdateBookingRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\createbooking\CreateBookingRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\healthcheck\HealthCheckRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\createtoken\CreateTokenRunner.java
+D:\workshop27102020\src\test\java\restfullbooker\partialupdatebooking\PartialUpdateBookingRunner.java

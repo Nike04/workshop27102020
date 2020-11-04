@@ -1,0 +1,31 @@
+23:08:59.136 request:
+1 > GET https://restful-booker.herokuapp.com/booking/5
+1 > Accept: application/json
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Host: restful-booker.herokuapp.com
+1 > User-Agent: Apache-HttpClient/4.5.11 (Java/1.8.0_251)
+
+23:08:59.880 response time in milliseconds: 741.25
+1 < 200
+1 < Connection: keep-alive
+1 < Content-Length: 141
+1 < Content-Type: application/json; charset=utf-8
+1 < Date: Wed, 04 Nov 2020 04:08:59 GMT
+1 < Etag: W/"8d-l1snxdJUWkiICz01TiGVB36u7MQ"
+1 < Server: Cowboy
+1 < Via: 1.1 vegur
+1 < X-Powered-By: Express
+{
+  "firstname": "Susan",
+  "lastname": "Wilson",
+  "totalprice": 442,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2018-07-14",
+    "checkout": "2020-03-08"
+  }
+}
+
+
+23:09:00.957 assertion failed: assert evaluated to false: SchemaUtils.isValid(response, schema)

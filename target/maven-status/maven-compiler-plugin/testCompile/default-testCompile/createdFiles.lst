@@ -1,0 +1,9 @@
+restfullbooker\deletebooking\DeleteBookingRunner.class
+restfullbooker\getbooking\GetBookingRunner.class
+restfullbooker\createtoken\CreateTokenRunner.class
+restfullbooker\updatebooking\UpdateBookingRunner.class
+restfullbooker\runner\TestRunner.class
+restfullbooker\createbooking\CreateBookingRunner.class
+restfullbooker\getbookingids\GetBookingIdsRunner.class
+restfullbooker\healthcheck\HealthCheckRunner.class
+restfullbooker\partialupdatebooking\PartialUpdateBookingRunner.class

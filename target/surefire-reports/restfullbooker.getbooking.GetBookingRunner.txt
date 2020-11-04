@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: restfullbooker.getbooking.GetBookingRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.798 s <<< FAILURE! - in restfullbooker.getbooking.GetBookingRunner
+[1:9] Verificar petición correcta con una reserva id reciba cod 200([GetBooking] Get Booking)  Time elapsed: 3.45 s  <<< ERROR!
+com.intuit.karate.exception.KarateException: GetBooking.feature:15 - assert evaluated to false: SchemaUtils.isValid(response, schema)
+
